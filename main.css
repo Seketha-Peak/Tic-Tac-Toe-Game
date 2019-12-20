@@ -1,0 +1,71 @@
+.square {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: center;
+ }
+
+.square_tl{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.square_tm{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.square_tr{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black
+}
+
+.square_ml{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.square_mm{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black    
+}
+
+table{
+    padding: 10px;
+}
+
+tr{
+    width: 900px;
+}
+
+span{
+    width: 125px;
+    display: inline-block;
+    text-align: center;
+}
+.square_mr{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black    
+}
+
+.square_bl{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.square_bm{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black    
+}
+
+.square_br{
+    border-top: 1px solid black;
+ 
+    border-left: 1px solid black    
+}
